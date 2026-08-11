@@ -18,6 +18,10 @@ I am a development economist and Postdoctoral Fellow at the McCourt School of Pu
 
 I exploit the 2007 opening of 26 used-lead-acid-battery recycling plants in Kenya as a natural experiment for the effect of lead exposure on children's learning. Using individual test scores from the national end-of-primary exam in difference-in-differences and event-study designs, I find that lead exposure reduces test scores by 0.18 standard deviations, with losses twice as large at the schools closest to the plants. The damage exceeds the gains from leading school-based learning interventions, implying that environmental protection belongs alongside pedagogy on the menu of education policy. A follow-on project, [*Closing the Chain*](/publication/closing-the-chain) (with Anirban Basu, Arijeet Mitra, and Kathrin Schilling at Columbia University), returns to the same 26 sites to attribute children's lead burden to its sources, measure blood lead directly, and estimate an in-situ dose-response between blood lead and learning.
 
+## Publications
+
+["A Firm of One's Own: Experimental Evidence on Credit Constraints and Occupational Choice"](/publication/firm-of-ones-own) (with Andrew Brudevold-Newman, Maddalena Honorati, Pamela Jakiela, and Owen Ozier). *Review of Economics and Statistics*, 2024. [[doi]](https://doi.org/10.1162/rest_a_01529)
+
 ## Other Research
 
 One strand of my work asks what happens to property rights when climate change destroys the land beneath them. In [*Groundless Claims: Property Rights When Land Ceases to Exist*](/publication/groundless-claims), I extend the Besley (1995) framework to settings where environmental destruction permanently eliminates land, calibrated to Kenya's Rift Valley, where rising lakes have submerged over 100 km² since 2005 and displaced more than 80,000 households. A companion empirical project, [*Property Rights, Climate Displacement, and Household Welfare*](/publication/rising-lakes), combines satellite-derived measures of lake expansion (2005&ndash;2025) with a planned household survey to test how tenure status shapes compensation, adaptation, and recovery.

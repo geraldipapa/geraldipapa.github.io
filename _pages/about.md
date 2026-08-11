@@ -22,6 +22,8 @@ I exploit the 2007 opening of 26 used-lead-acid-battery recycling plants in Keny
 
 ["A Firm of One's Own: Experimental Evidence on Credit Constraints and Occupational Choice"](/publication/firm-of-ones-own) (with Andrew Brudevold-Newman, Maddalena Honorati, Pamela Jakiela, and Owen Ozier). *Review of Economics and Statistics*, 2024. [[doi]](https://doi.org/10.1162/rest_a_01529)
 
+Both a multifaceted asset-plus-training program and an unconditional cash grant move young women in Nairobi into self-employment, with effects that persist six years on; the multifaceted program yields significantly higher long-run wellbeing.
+
 ## Other Research
 
 One strand of my work asks what happens to property rights when climate change destroys the land beneath them. In [*Groundless Claims: Property Rights When Land Ceases to Exist*](/publication/groundless-claims), I extend the Besley (1995) framework to settings where environmental destruction permanently eliminates land, calibrated to Kenya's Rift Valley, where rising lakes have submerged over 100 km² since 2005 and displaced more than 80,000 households. A companion empirical project, [*Property Rights, Climate Displacement, and Household Welfare*](/publication/rising-lakes), combines satellite-derived measures of lake expansion (2005&ndash;2025) with a planned household survey to test how tenure status shapes compensation, adaptation, and recovery.

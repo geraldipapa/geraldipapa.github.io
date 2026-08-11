@@ -7,3 +7,5 @@ venue: "University of Delaware"
 date: 2023-05-01
 location: "Newark, DE"
 ---
+
+Department of Economics seminar, University of Delaware, 2023.

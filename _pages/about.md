@@ -20,7 +20,7 @@ I exploit the 2007 opening of 26 used-lead-acid-battery recycling plants in Keny
 
 ## Publications
 
-["A Firm of One's Own: Experimental Evidence on Credit Constraints and Occupational Choice"](/publication/firm-of-ones-own) (with Andrew Brudevold-Newman, Maddalena Honorati, Pamela Jakiela, and Owen Ozier). *Review of Economics and Statistics*, 2024. [[doi]](https://doi.org/10.1162/rest_a_01529)
+Andrew Brudevold-Newman, Maddalena Honorati, Gerald Ipapa, Pamela Jakiela, Owen Ozier; [A Firm of One's Own: Experimental Evidence on Credit Constraints and Occupational Choice](/publication/firm-of-ones-own). *The Review of Economics and Statistics* 2024; doi: [https://doi.org/10.1162/rest_a_01529](https://doi.org/10.1162/rest_a_01529)
 
 Both a multifaceted asset-plus-training program and an unconditional cash grant move young women in Nairobi into self-employment, with effects that persist six years on; the multifaceted program yields significantly higher long-run wellbeing.
 

@@ -9,4 +9,4 @@ citation: 'Ipapa, G., A. Zeitlin, B. Jack, and A. Wendo. &quot;Saturating the Sa
 ---
 With Andrew Zeitlin, Billy Jack, and Alex Wendo.
 
-A randomized saturation-design RCT among roughly 4,000 refugee and host-community households in urban Nairobi, measuring the effects of cash and entrepreneurship training on livelihoods, social cohesion, and local prices. AEA-registered pre-analysis plan; baseline and three quarterly follow-ups complete, full endline in 2026.
+A randomized saturation-design RCT among roughly 4,000 refugee and host-community households in urban Nairobi, measuring the effects of cash and entrepreneurship training on livelihoods, social cohesion, and local prices. AEA-registered pre-analysis plan; baseline and three quarterly follow-ups complete, endline underway.

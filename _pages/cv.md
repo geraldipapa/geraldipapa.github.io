@@ -13,7 +13,7 @@ redirect_from:
 
 Employment
 ======
-* Postdoctoral Fellow, Georgetown University, 2024–present
+* Postdoctoral Fellow, gui2de / McCourt School of Public Policy, Georgetown University, 2024–present
 
 Education
 ======
@@ -25,32 +25,36 @@ Education
 
 Fields
 ======
-* **Primary:** Development Economics; Economics of Education; Labor Economics
-* **Secondary:** Energy Economics; Property Rights; Environment and Climate Change
+* **Primary:** Development Economics; Economics of Education and Human Capital; Labor Economics
+* **Secondary:** Environmental Economics; Forced Displacement and Refugees
 
 Other Professional Experience
 ======
 * Consultant, World Bank, 2018–2020; 2024–present
-* Research Manager / Coordinator / Associate / Data Analyst, Innovations for Poverty Action (IPA), Kenya, 2010–2017 and 2020
+* Senior Research Fellow / Research Manager / Coordinator / Associate / Data Analyst, Innovations for Poverty Action (IPA), Kenya, 2010–2017 and 2020
   * Managed impact-evaluation portfolios (budgets approaching USD 1M) for M. Kremer, E. Miguel, P. Jakiela, O. Ozier, D. Pomeranz, and L. Casaburi
 
 Publications
 ======
-* Brudevold-Newman, A., M. Honorati, **Ipapa, G.**, P. Jakiela, and O. Ozier (2024). "A Firm of One's Own: Experimental Evidence on Credit Constraints and Occupational Choice." *Review of Economics and Statistics*.
+* Brudevold-Newman, A., M. Honorati, **Ipapa, G.**, P. Jakiela, and O. Ozier (2024). "A Firm of One's Own: Experimental Evidence on Credit Constraints and Occupational Choice." *Review of Economics and Statistics*. [doi:10.1162/rest_a_01529](https://doi.org/10.1162/rest_a_01529)
 
 Working Papers
 ======
-* **Ipapa, G.** "The Hidden Costs of Recycling: Lead Exposure and Student Learning." Estimates the causal effect of battery-recycling lead exposure on children's learning in Kenya using national administrative test data; effects rival the gains from leading school-based interventions.
-* **Ipapa, G.** "Groundless Claims: Property Rights When Land Ceases to Exist." (2026.) Extends the Besley (1995) framework to climate-driven land loss; calibrated to Kenya's Rift Valley lakes.
+* **Ipapa, G.** "The Hidden Costs of Recycling: Lead Exposure and Student Learning." *Job Market Paper.* Estimates the causal effect of battery-recycling lead exposure on children's learning in Kenya using national administrative test data; losses are twice as large at schools closest to the plants and exceed the gains from leading school-based interventions.
 
 Work in Progress
 ======
-* "Saturating the Safety Net: Cash Transfers, Skills, and Spillovers in an Urban Refugee Economy," with Andrew Zeitlin, Billy Jack, and Alex Wendo. Randomized saturation-design RCT, ~4,000 refugee and host households, urban Nairobi; AEA-registered pre-analysis plan. Baseline and three quarterly follow-ups complete; full endline 2026.
-* "Property Rights, Climate Displacement, and Household Welfare: Evidence from Kenya's Rising Lakes." Tests how pre-existing tenure status (formal, customary, informal) shapes compensation receipt, adaptation investment, and livelihood recovery after slow-onset displacement, using satellite-derived lake expansion measures (Landsat/Sentinel-2, 2005–2025) for Lakes Baringo, Bogoria, and Naivasha and a planned household survey; over 80,000 households displaced since 2010.
+* "Saturating the Safety Net: Cash Transfers, Skills, and Spillovers in an Urban Refugee Economy," with Andrew Zeitlin, Billy Jack, and Alex Wendo. Randomized saturation-design RCT, ~4,000 refugee and host households, urban Nairobi; AEA-registered pre-analysis plan. Baseline and three quarterly follow-ups complete; endline underway.
+* **Ipapa, G.** "Groundless Claims: Property Rights When Land Ceases to Exist." Extends the Besley (1995) framework to climate-driven land loss; calibrated to Kenya's Rift Valley lakes. Draft in preparation.
+* **Ipapa, G.** "Property Rights, Climate Displacement, and Household Welfare: Evidence from Kenya's Rising Lakes." Tests how tenure status shapes compensation, adaptation, and recovery after slow-onset displacement, combining satellite-derived lake-expansion measures (2005–2025) with a planned household survey.
+* **Ipapa, G.** "Cash, Caregiving, and the Youngest Refugees: Early Childhood Development Effects of Unconditional Transfers and Business Training in Displaced Households in Nairobi." Adds a dedicated early-childhood-development arm (ages 0–8; CREDI and IDELA assessments) to the Nairobi cash-and-training RCT, identifying effects of pairing training with cash and of earlier cash receipt, plus community-level spillovers. Study design phase.
+* "Livelihoods, Allocation, and Early Childhood Development in Refugee Graduation Programs," with Andrew Zeitlin and Gloria Ayesiga. Graduation programs in two Uganda refugee settlements (Palabek and Kiryandongo): a natural experiment from a program discontinuation and a randomized staggered rollout of playgroup and coaching components. Study design phase.
+* "Closing the Chain: From Used Lead-Acid Battery Recycling to Children's Blood Lead, Learning, and Policy in Kenya," with Anirban Basu, Arijeet Mitra, and Kathrin Schilling. Lead-isotope source attribution, blood-lead biomonitoring, and learning assessments for 3,120 children across the 26 recycling sites of the job market paper's natural experiment and matched controls, delivering an in-situ blood-lead-to-learning dose-response from an informal-recycling setting. Study design phase.
 
 Research Funding
 ======
-* IKEA Foundation, RCT (Co-PI): USD 691,000 (2024); USD 92,237 (2025)
+* J-PAL Social Protection Initiative, Full RCT Award (Co-PI), urban refugee cash-transfer RCT: USD 81,340 (2026)
+* IKEA Foundation (Co-PI), urban refugee cash-transfer RCT: USD 691,000 (2024); USD 92,237 (2025)
 * J-PAL King Climate Action Initiative, Research Travel and Project Development Grant (PI), 2022
 * IZA/DFID Growth and Labour Markets in Low-Income Countries (GLM-LIC) (Co-PI), 2018
 
@@ -82,3 +86,9 @@ Skills and Languages
 ======
 * **Software:** Stata, R, Python, Julia, MATLAB; SurveyCTO, CsPro, Blaise; Git/GitHub, LaTeX, Quarto; large-data management
 * **Languages:** English (fluent), Kiswahili (fluent), Ateso (native), Luhya (basic)
+
+References
+======
+* **Owen Ozier**, Associate Professor of Economics, Williams College. [oo3@williams.edu](mailto:oo3@williams.edu)
+* **Adrienne Lucas**, Professor of Economics, University of Delaware. [alucas@udel.edu](mailto:alucas@udel.edu)
+* **Andrew Zeitlin**, Professor, Georgetown University. [andrew.zeitlin@georgetown.edu](mailto:andrew.zeitlin@georgetown.edu)
